@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e51093b-b185-4166-9041-989929d4f5a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/digit-recognizer/cnn_mnist_datagen.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kaggle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tatanic/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tatanic/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +29,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="157" />
+          <entry key="py" value="184" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="157" />
+          <entry key="Python" value="184" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,7 +55,14 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tatanic/main.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -77,6 +89,7 @@
       <list>
         <option value="$PROJECT_DIR$/digit-recognizer/main.py" />
         <option value="$PROJECT_DIR$/tatanic/mian.py" />
+        <option value="$PROJECT_DIR$/tatanic/main.py" />
       </list>
     </option>
   </component>
@@ -108,6 +121,12 @@
               <item name="Kaggle" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kaggle" type="462c0819:PsiDirectoryNode" />
               <item name="tatanic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle" type="462c0819:PsiDirectoryNode" />
+              <item name="tatanic" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,14 +197,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976599" visible="true" weight="0.19347706" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976599" visible="true" weight="0.19347706" />
       <window_info id="Structure" order="1" sideWeight="0.5023401" side_tool="true" weight="0.18905473" />
       <window_info id="Favorites" order="2" sideWeight="0.5023401" side_tool="true" weight="0.18905473" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3294979" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294979" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -245,7 +263,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tatanic/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
